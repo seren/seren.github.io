@@ -1,11 +1,25 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, this is my blog and an excuse to play around with [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm currently an HCI masters student and devops engineer, living an interesting year in Paris.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I write about my interests, mainly technology and observations about life. Enjoy.
+
+-Seren Thompson
+
+-------
+
+Website: [www.seren.net](http://www.seren.net)
+
+Old antarctic blog: [Part 1](http://serent.typepad.com/) and [Part 2](http://serent.blogspot.fr/)
+
+
+
+Twitter: [serent](https://twitter.com/serent)
+
+LinkedIn: [seren](https://www.linkedin.com/in/seren)
+
